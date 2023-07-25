@@ -1,6 +1,6 @@
 {
   "name": "tnzapi",
-  "version": "2.3.0",
+  "version": "2.3.2",
   "description": "Node.js Library for TNZ Group REST API",
   "main": "index.js",
   "scripts": {
