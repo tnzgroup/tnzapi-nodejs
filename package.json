@@ -1,0 +1,20 @@
+{
+  "name": "tnzapi",
+  "version": "2.3.0",
+  "description": "Node.js Library for TNZ Group REST API",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "tnzapi",
+    "email",
+    "sms",
+    "fax",
+    "tts",
+    "voice"
+  ],
+  "author": "TNZ Group Limited",
+  "license": "MIT",
+  "homepage": "https://www.tnz.co.nz"
+}
